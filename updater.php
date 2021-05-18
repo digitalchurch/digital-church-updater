@@ -1,6 +1,6 @@
 <?php
 
-class Smashing_Updater {
+class Digital_Church_Updater {
 
 	private $file;
 
